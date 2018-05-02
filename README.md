@@ -1,0 +1,2 @@
+# spacy-indonesia
+Spacy Indonesia
